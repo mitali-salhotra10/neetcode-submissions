@@ -89,17 +89,6 @@ Each problem contains one or more submissions depending on the number of attempt
 Current solutions may include:
 
 * Java
-* Python
-* JavaScript
-* TypeScript
-* C++
-* C#
-* Go
-* Rust
-* Kotlin
-* Swift
-* SQL
-
 ---
 
 ## Practice Approach
